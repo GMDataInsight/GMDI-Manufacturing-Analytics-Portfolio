@@ -52,9 +52,9 @@ The GM Data Analytics Portfolio is continuously expanding to cover the most impo
 
 | Status | Project | Focus | View Project |
 |---------|---------|-------|----------|
-| ✅ Released | Automatic Production Line Analytics | OEE, Production KPIs, SQL Architecture | ➡ **[View Project on GitHub](https://github.com/GMDataInsight/GM-Data-Automatic-Production-Line-Analytics)** |
+| ✅ Released | Automatic Production Line Analytics | OEE, Production KPIs, SQL Architecture | ➡ **[Link to Project](https://github.com/GMDataInsight/GM-Data-Automatic-Production-Line-Analytics)** |
 | 🚧 In Development | Manual Production Line Analytics | Manual Production Performance |
-| ✅ Released | Manufacturing Operations Performance Analytics | Executive KPI Dashboards |
+| ✅ Released | Manufacturing Operations Performance Analytics | Executive KPI Dashboards | ➡ **[Link to Project](https://github.com/GMDataInsight/GM-Data-Manufacturing_Operations_Performance_Analytics)**
 | 📅 Planned | Quality Performance Analytics | Quality KPIs & Defect Analytics |
 | 🔮 Future | Post Processing Analytics | People efficiency |
 | 🔮 Future | Maintenance Analytics | Downtime |
