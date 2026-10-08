@@ -16,17 +16,16 @@ Each project follows a structured approach — from business requirements and da
 
 ---
 
-## Core Expertise
+## Analytics & Manufacturing Expertise
 
 | Area | Expertise |
 |------|-----------|
 | **Manufacturing Analytics** | Production performance, OEE, productivity, quality, and operational KPI analysis |
-| **SQL Development** | SQL Server, data modeling, ETL, analytical SQL views |
-| **Business Intelligence** | Power BI dashboards, interactive reporting, executive KPI monitoring |
-| **Data Modeling** | Star Schema, relational modeling, business-oriented datasets |
-| **KPI Frameworks** | OEE, Availability, Performance, Quality, Production KPIs |
-| **Operations Excellence** | Data-driven performance analysis and manufacturing process improvement |
-
+| **SQL & Data Architecture** | SQL Server, analytical SQL views, ETL, data transformation, and relational data modeling |
+| **Business Intelligence** | Power BI dashboards, interactive reporting, executive KPI monitoring, and data storytelling |
+| **Data Modeling** | Star Schema, relational modeling, and business-oriented analytical datasets |
+| **KPI Frameworks** | OEE, Availability, Performance, Quality, Productivity, and Production KPIs |
+| **Operations Excellence** | Loss analysis, performance improvement, root cause analysis, and data-driven decision making |
 ---
 
 ## Technology Stack
@@ -46,18 +45,17 @@ Each project follows a structured approach — from business requirements and da
 
 # 🗺️ Portfolio Roadmap
 
-The GM Data Insight Manufacturing Analytics Portfolio is continuously expanding to cover key areas of manufacturing and operations analytics.
+The GM Data Insight Manufacturing Analytics Portfolio is continuously expanding with practical analytics solutions addressing real-world manufacturing and operational challenges.
 
-| Status | Project | Business Problem | View Project |
-|---------|---------|------------------|--------------|
-| ✅ Released | **Automatic Production Line Analytics** | OEE on automatic production lines has dropped and stagnated at a low level. The objective is to identify the main performance drivers, understand the sources of OEE loss, and provide improvement insights. | ➡️ [View Project](https://github.com/GMDataInsight/GM-Data-Automatic-Production-Line-Analytics) |
-| ✅ Released | **Manufacturing Operations Performance Analytics** | The client wants to introduce new operational KPI metrics and improve manufacturing performance through data-driven performance monitoring. | ➡️ [View Project](https://github.com/GMDataInsight/GM-Data-Manufacturing_Operations_Performance_Analytics) |
-| 🚧 In Development | **Manual Production Line Analytics** | The objective is to analyze OEE and operator performance on manual production lines and identify opportunities for operational improvement. | — |
-| 📅 Planned | **Quality Performance Analytics** | Quality performance is below the desired level. The objective is to identify quality trends, major loss drivers, and relationships between production and quality performance. | — |
-| 🔮 Future | **Post-Processing Analytics** | Productivity in post-processing operations is below expectations. The objective is to analyze operator performance and identify opportunities for productivity improvement. | — |
-| 🔮 Future | **5S Analytics** | 5S audit results indicate recurring workplace issues. The objective is to identify recurring problems, analyze audit trends, and support continuous improvement activities. | — |
-| 🔮 Future | **Supply Chain Analytics** | Supply chain KPIs are declining. The objective is to identify the main performance drivers, affected customers, and potential improvement opportunities. | — |
-
+| Domain | Status | Project | Analytics Focus | Business Problem | View Project |
+|---------|---------|---------|-----------------|------------------|--------------|
+| **Production & Operations** | ✅ Released | **Automatic Production Line Analytics** | OEE • Availability • Performance • Quality • Industrial Load • Volume Load • Capacity • Forecasting | OEE on automatic production lines has dropped and stagnated at a low level. The objective is to identify whether the main losses come from Availability, Performance, or Quality, quantify their impact on production output, evaluate industrial and volume load, and provide a forward-looking view of expected OEE performance. | ➡️ **[View Project](https://github.com/GMDataInsight/GM-Data-Automatic-Production-Line-Analytics)** |
+| **Production & Operations** | ✅ Released | **Manufacturing Operations Performance Analytics** | Productivity • Efficiency • Production KPIs • Performance Trends | Management needs a broader set of operational KPIs to understand production performance, identify performance gaps, and monitor improvement over time. The objective is to build a structured KPI framework that connects production activity with operational performance. | ➡️ **[View Project](https://github.com/GMDataInsight/GM-Data-Manufacturing_Operations_Performance_Analytics)** |
+| **Production & Operations** | 🚧 In Development | **Manual Production Line Analytics** | OEE • Operator Performance • Production Performance • Loss Analysis | Performance on manual production lines varies significantly between operators and production periods. The objective is to combine OEE and operator-level performance data to identify performance gaps and improvement opportunities. | — |
+| **Quality** | 📅 Planned | **Quality Performance Analytics** | Scrap • Defects • Quality KPIs • Trends • Root Cause Analysis | Quality performance is below the expected level, with recurring quality losses affecting production results. The objective is to identify the main quality loss drivers, analyze their trends, and understand their relationship with production performance. | — |
+| **Production & Operations** | 🔮 Future | **Post-Processing Analytics** | Productivity • Operator Performance • Cycle Time • Performance Losses | Productivity in post-processing operations is below the expected level. Initial analysis indicates that operator performance is a significant factor. The objective is to quantify performance differences, identify recurring losses, and determine improvement opportunities. | — |
+| **Continuous Improvement** | 🔮 Future | **5S Analytics** | 5S Audits • Non-Conformities • Recurring Problems • Trend Analysis | The company performs regular 5S audits, but workplace conditions remain inconsistent and recurring issues are observed. The objective is to analyze audit results, identify repetitive problems, and determine where corrective actions are most needed. | — |
+| **Supply Chain** | 🔮 Future | **Supply Chain Analytics** | Supply Chain KPIs • Customer Performance • Delivery • Trends | Supply chain performance is declining across selected KPIs. The objective is to identify the customers, products, and operational factors contributing to the decline and provide data-driven improvement insights. | — |
 ---
 
 # 💼 Professional Approach
