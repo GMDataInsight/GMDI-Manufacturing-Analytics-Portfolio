@@ -52,13 +52,13 @@ The GM Data Analytics Portfolio is continuously expanding to cover the most impo
 
 | Status | Project | Business Problem | View Project |
 |---------|---------|-------|----------|
-| ✅ Released | Automatic Production Line Analytics | OEE Dropped And Stagnating At Low Level | ➡ **[Link to Project](https://github.com/GMDataInsight/GM-Data-Automatic-Production-Line-Analytics)** |
+| ✅ Released | Automatic Production Line Analytics | OEE On Automatic Production Lines Dropped And Stagnating At Low Level. Client Wants To Understand Why And Recomendations For Improvement | ➡ **[Link to Project](https://github.com/GMDataInsight/GM-Data-Automatic-Production-Line-Analytics)** |
 | ✅ Released | Manufacturing Operations Performance Analytics | Client Wants To Implement New KPI Metrics And Improve Performance | ➡ **[Link to Project](https://github.com/GMDataInsight/GM-Data-Manufacturing_Operations_Performance_Analytics)**
-| 🚧 In Development | Manual Production Line Analytics | Manual Production Performance |
-| 📅 Planned | Quality Performance Analytics | Quality KPIs & Defect Analytics |
-| 🔮 Future | Post Processing Analytics | People efficiency |
-| 🔮 Future | Maintenance Analytics | Downtime |
-| 🔮 Future | Supply Chain Analytics | Procurement & Logistics |
+| 🚧 In Development | Manual Production Line Analytics | CLient Wants Insights At Manual Machines OEE And Operator Performance Together With Recomendations For Improvement |
+| 📅 Planned | Quality Performance Analytics | Client Is Stating That Quality Performance Is On Low Level Not Reaching Automotive Standards. He Needs To Understand Trends And Relation Insights  |
+| 🔮 Future | Post Processing Analytics | Client Has Issues With Productivity Level. He Knows That The Main Impact Is From Operator Performance At Post Processing Of Products. Client Wants To Have Insights At Operator Performance And Improvement Recomendations |
+| 🔮 Future | 5S Analytics | Client Has 5S Audit System, But At The WorkShop 5S Is Still On Low Level. Client Wants To Understand What Are 5S Audit Results And What Are The Repetitive Problems | |
+| 🔮 Future | Supply Chain Analytics | Clients Supply Chain KPIs Are Dropping. He Wants To Understand Why, Which Customer And Improvement Proposals |
 
 
 
