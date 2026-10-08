@@ -45,6 +45,23 @@ Each repository follows a structured approach, covering business requirements, S
 
 ---
 
+
+# 🗺️ Portfolio Roadmap
+
+The GM Data Analytics Portfolio is continuously expanding to cover the most important areas of manufacturing and operations analytics.
+
+| Status | Project | Focus |
+|---------|---------|-------|
+| ✅ Released | Automatic Production Line Analytics | OEE, Production KPIs, SQL Architecture | ➡ **[View Project on GitHub](https://github.com/GMDataInsight/GM-Data-Automatic-Production-Line-Analytics)** |
+| 🚧 In Development | Manual Production Line Analytics | Manual Production Performance |
+| ✅ Released | Manufacturing Operations Performance Analytics | Executive KPI Dashboards |
+| 📅 Planned | Quality Performance Analytics | Quality KPIs & Defect Analytics |
+| 🔮 Future | Post Processing Analytics | People efficiency |
+| 🔮 Future | Maintenance Analytics | Downtime |
+| 🔮 Future | Supply Chain Analytics | Procurement & Logistics |
+
+
+
 # 📂 Portfolio Projects
 
 This portfolio brings together end-to-end Manufacturing Data Analytics solutions that demonstrate the complete analytics lifecycle—from business requirements and SQL data modeling to KPI framework design and interactive Power BI dashboards.
